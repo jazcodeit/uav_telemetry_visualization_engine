@@ -2,6 +2,10 @@
 
 Extracts and clean telemetry flight data from DJI drone and visualize patterns and trends.
 
+## Demo
+
+[View Demo](https://uav-telemetry-visualization-engine.streamlit.app) and you can checkout more of my projects at [My Website](https://jazcodeit.ca)
+
 ## How to use
 
 1. Convert DJI flight data to csv <br/>
